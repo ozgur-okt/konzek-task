@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Project Deployment
+
+Project has been deployed to this adres if you want to examine it : https://konzek-task.vercel.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
